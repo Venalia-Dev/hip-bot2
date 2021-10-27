@@ -1,0 +1,17 @@
+{
+  "name": "Glitch",
+  "version": "1.0.0",
+  "discription": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+ 
+},
+"keyworlds": [],
+"author": "",
+"license": "ISC",
+"dependencies": {
+  "discord.js": "^12.4.2"
+}
+}
+
